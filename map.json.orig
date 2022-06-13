@@ -504,11 +504,15 @@
                  "rotation":0,
                  "text":
                     {
+<<<<<<< HEAD
+                     "text":"SPORTHOPEO, Monsieur Julien TRIPARD",
+=======
                      "bold":true,
                      "color":"#e78870",
                      "fontfamily":"Arial Black",
                      "pixelsize":15,
                      "text":"CHEF PROJET",
+>>>>>>> sido2
                      "wrap":true
                     },
                  "type":"",
