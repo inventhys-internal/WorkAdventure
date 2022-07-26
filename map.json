@@ -251,7 +251,7 @@
          "name":"Whole stuff",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":61,
          "x":0,
          "y":0
@@ -263,7 +263,7 @@
          "name":"fill_red_hemsky",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":61,
          "x":0,
          "y":0
@@ -275,7 +275,7 @@
          "name":"FloorLogo",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":61,
          "x":0,
          "y":0
@@ -287,7 +287,7 @@
          "name":"White",
          "opacity":0.51,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":61,
          "x":0,
          "y":0
@@ -299,7 +299,7 @@
          "name":"Walls",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":61,
          "x":0,
          "y":0
@@ -311,7 +311,7 @@
          "name":"Whallblack",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":61,
          "x":0,
          "y":0
@@ -323,7 +323,7 @@
          "name":"WhiteMakers",
          "opacity":0.21,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":61,
          "x":0,
          "y":0
@@ -335,7 +335,7 @@
          "name":"White less",
          "opacity":0.07,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":61,
          "x":0,
          "y":0
@@ -347,7 +347,7 @@
          "name":"White Inodesign",
          "opacity":0.12,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":61,
          "x":0,
          "y":0
@@ -359,7 +359,7 @@
          "name":"Meubles",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":61,
          "x":0,
          "y":0
@@ -371,7 +371,7 @@
          "name":"Meuble 2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":61,
          "x":0,
          "y":0
@@ -383,7 +383,7 @@
          "name":"Transparent object",
          "opacity":0.23,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":61,
          "x":0,
          "y":0
