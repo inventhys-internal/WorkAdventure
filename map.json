@@ -417,14 +417,14 @@
                      "bold":true,
                      "color":"#e78870",
                      "fontfamily":"Arial Black",
-                     "text":"MOBILE",
+                     "text":"APP MOBILE",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
                  "width":190.066,
-                 "x":1372.63366666667,
-                 "y":517.5767
+                 "x":1352.63366666667,
+                 "y":480.5767
                 }, 
                 {
                  "height":54.8466,
@@ -462,8 +462,8 @@
                  "type":"",
                  "visible":true,
                  "width":190.066,
-                 "x":1348.967,
-                 "y":484.5767
+                 "x":1349.467,
+                 "y":520.0767
                 }, 
                 {
                  "height":54.8466,
