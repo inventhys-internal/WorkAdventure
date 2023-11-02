@@ -1,0 +1,50 @@
+{
+    "activeFile": "map.json",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "Tous les Fichiers (*)",
+    "fileStates": {
+        "map.json": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 973.3333333333333,
+                "y": 490
+            }
+        },
+        "map.json#exit": {
+            "scaleInDock": 1
+        },
+        "map.json#fantasy": {
+            "scaleInDock": 1
+        },
+        "map.json#office_1": {
+            "scaleInDock": 1
+        },
+        "map.json#office_2": {
+            "scaleInDock": 1
+        },
+        "map.json#office_3": {
+            "scaleInDock": 1
+        },
+        "map.json#office_4": {
+            "scaleInDock": 1
+        },
+        "map.json#water": {
+            "scaleInDock": 1
+        },
+        "map.json#work": {
+            "scaleInDock": 1
+        },
+        "map.json#work part2": {
+            "scaleInDock": 1
+        }
+    },
+    "openFiles": [
+        "map.json"
+    ],
+    "project": "map.json",
+    "recentFiles": [
+        "map.json"
+    ]
+}
